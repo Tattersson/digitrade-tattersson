@@ -1,2 +1,3 @@
 # digitrade-tattersson
-Kouluun tarvittava repository
+- Kouluun tarvittava repository
+- Testi
