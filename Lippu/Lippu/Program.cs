@@ -31,23 +31,23 @@ namespace Lippu
                 e = int.Parse(Console.ReadLine());
                 if (e > 65)
                 {
-                discount = 0.5;
-                Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
+                    discount = 0.5;
+                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
-                        //Tässä käyn läpi onko asiakas 7 - 15 vuoden ikäinen.
-                        //Heille on myös 50% alennus.
-                        else if (e > 7 && e < 15)
-                        {
-                        discount = 0.5;
-                        Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
-                        }
-                        else if (e < 7)
-                        {
-                         //Tässä käyn läpi onko asiakas alle 7 vuotias.
-                         //Heille 100% alennus
-                         discount = 1;
-                         Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
-                        }
+                //Tässä käyn läpi onko asiakas 7 - 15 vuoden ikäinen.
+                //Heille on myös 50% alennus.
+                else if (e > 7 && e < 15)
+                {
+                    discount = 0.5;
+                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
+                }
+                else if (e < 7)
+                {
+                    //Tässä käyn läpi onko asiakas alle 7 vuotias.
+                    //Heille 100% alennus
+                    discount = 1;
+                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
+                }
                 else if (e > 15 && e < 65)
                 {
                     //Tässä kysytään onko asiakas opiskelija ja mtkn jäsen
@@ -59,21 +59,30 @@ namespace Lippu
                         isMTK = Console.ReadLine();
                         if (isMTK.ToUpper() == "Y")
                         {
+                            //On MTK:n jäsen sekä Opiskelija
                             discount = 0.6;
                             Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
-                        //Tässä mietin että miksi ohjelma ei laske alennusta kun opiskelija ei ole MTK:n jäsen.
-                        else if (isMTK.ToUpper() == "N")
-                            {
-                                discount = 0.45;
-                                Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
-                            }
-                           
                         }
-                    } 
+                        //Ei ole MTK:n jäsen mutta on opiskelija
+                        if (isMTK.ToUpper() == "N")
+                        {
+                            discount = 0.45;
+                            Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
+                        }
+                        
+                    }
+                    //Jos mikään noista ei täyty niin täysi hinta.
+                    else
+                    {
+                        Console.WriteLine("Lipun hinta on 16 euroa");
+                    }
                 }
-
+           
             }
+           
+          }
+
         }
            
     }
-}
+
