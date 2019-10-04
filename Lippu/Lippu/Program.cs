@@ -36,19 +36,19 @@ namespace Lippu
                 }
                 //Tässä käyn läpi onko asiakas 7 - 15 vuoden ikäinen.
                 //Heille on myös 50% alennus.
-                else if (e > 7 && e < 15)
+                else if (e > 7 || e <= 15)
                 {
                     discount = 0.5;
                     Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
-                else if (e < 7)
+                else if (e <= 7)
                 {
                     //Tässä käyn läpi onko asiakas alle 7 vuotias.
                     //Heille 100% alennus
                     discount = 1;
                     Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
-                else if (e > 15 && e < 65)
+                else if (e >= 16 || e <= 65)
                 {
                     //Tässä kysytään onko asiakas opiskelija ja mtkn jäsen
                     Console.WriteLine("Oletko opiskelija? [Y / N]");
