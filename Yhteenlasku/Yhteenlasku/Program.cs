@@ -17,7 +17,7 @@ namespace Yhteenlasku
                 while (i <= n)
                 {
                     vastaus = (vastaus + n);
-                    i++;
+                    n--;
                 }
                 Console.WriteLine("Vastaus on: " + vastaus);
             }
