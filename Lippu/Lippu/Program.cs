@@ -21,10 +21,9 @@ namespace Lippu
                 //Tässä lasketaan varusmiehen alennus.
                 //50% alennus.
                 discount = 0.5;
-                Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
             }
             else
-                { 
+            {
                 //Tässä käyn läpi että onko asiakas vanhus (Yli 65 vuotias).
                 //50% alennus.
                 Console.WriteLine("Syötä Ikäsi?");
@@ -32,23 +31,20 @@ namespace Lippu
                 if (e > 65)
                 {
                     discount = 0.5;
-                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
                 //Tässä käyn läpi onko asiakas 7 - 15 vuoden ikäinen.
                 //Heille on myös 50% alennus.
-                else if (e > 7 || e <= 15)
+                else if (e > 7 && e <= 15)
                 {
                     discount = 0.5;
-                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
                 else if (e <= 7)
                 {
                     //Tässä käyn läpi onko asiakas alle 7 vuotias.
                     //Heille 100% alennus
                     discount = 1;
-                    Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
                 }
-                else if (e >= 16 || e <= 65)
+                if (e >= 16 && e <= 65)
                 {
                     //Tässä kysytään onko asiakas opiskelija ja mtkn jäsen
                     Console.WriteLine("Oletko opiskelija? [Y / N]");
@@ -61,28 +57,32 @@ namespace Lippu
                         {
                             //On MTK:n jäsen sekä Opiskelija
                             discount = 0.6;
-                            Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
+                            
                         }
                         //Ei ole MTK:n jäsen mutta on opiskelija
-                        if (isMTK.ToUpper() == "N")
+                        else if (isMTK.ToUpper() == "N")
                         {
-                            discount = 0.45;
-                            Console.WriteLine($"Lipun hinta on {a - (a * discount)} euroa");
+                            discount = 0.45; 
                         }
-                        
                     }
+                    else if (isStudent.ToUpper() == "N")
+                    {
+                        Console.WriteLine($"Oletko MTK:n Jäsen? Y/N :");
+                        isMTK = Console.ReadLine();
+                        if (isMTK.ToUpper() == "Y")
+                        {
+                            discount = 0.15;
+                        }
+                    }
+
                     //Jos mikään noista ei täyty niin täysi hinta.
                     else
                     {
-                        Console.WriteLine("Lipun hinta on 16 euroa");
+                        discount = 0;
                     }
                 }
-           
             }
-           
-          }
-
+            Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
         }
-           
     }
-
+}
