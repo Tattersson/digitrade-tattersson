@@ -1,0 +1,11 @@
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.exe
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.deps.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.runtimeconfig.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.runtimeconfig.dev.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\bin\Debug\netcoreapp3.0\Lippu.pdb
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\obj\Debug\netcoreapp3.0\Lippu.csprojAssemblyReference.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\obj\Debug\netcoreapp3.0\Lippu.AssemblyInfoInputs.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\obj\Debug\netcoreapp3.0\Lippu.AssemblyInfo.cs
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\obj\Debug\netcoreapp3.0\Lippu.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Lippu\Lippu\obj\Debug\netcoreapp3.0\Lippu.pdb
