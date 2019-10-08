@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-for 3", "do-while-for 3\do-while-for 3.csproj", "{6408EE73-5C85-4F80-ABAB-783E065AC6D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toistorakenne-Jatkuu-4", "Toistorakenne-Jatkuu-4\Toistorakenne-Jatkuu-4.csproj", "{CF2E5578-6578-45E2-BB2F-E4FF91B964F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6408EE73-5C85-4F80-ABAB-783E065AC6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6408EE73-5C85-4F80-ABAB-783E065AC6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6408EE73-5C85-4F80-ABAB-783E065AC6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6408EE73-5C85-4F80-ABAB-783E065AC6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2E5578-6578-45E2-BB2F-E4FF91B964F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2E5578-6578-45E2-BB2F-E4FF91B964F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2E5578-6578-45E2-BB2F-E4FF91B964F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2E5578-6578-45E2-BB2F-E4FF91B964F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {326B9217-359D-47A0-B5CC-DF6F51177C50}
+		SolutionGuid = {4761FC4D-24CC-40B9-B2E7-51679C0D9BB9}
 	EndGlobalSection
 EndGlobal
