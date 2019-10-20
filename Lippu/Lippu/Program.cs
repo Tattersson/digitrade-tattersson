@@ -80,9 +80,11 @@ namespace Lippu
                     {
                         discount = 0;
                     }
+                  
                 }
             }
             Console.WriteLine($"Lipun hinta on {a - (a * discount)}");
         }
+        
     }
 }
