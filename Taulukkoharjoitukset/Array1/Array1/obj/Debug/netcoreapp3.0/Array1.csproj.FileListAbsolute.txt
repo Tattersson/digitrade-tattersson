@@ -1,0 +1,11 @@
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.exe
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.deps.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.runtimeconfig.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.runtimeconfig.dev.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\bin\Debug\netcoreapp3.0\Array1.pdb
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\obj\Debug\netcoreapp3.0\Array1.csprojAssemblyReference.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\obj\Debug\netcoreapp3.0\Array1.AssemblyInfoInputs.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\obj\Debug\netcoreapp3.0\Array1.AssemblyInfo.cs
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\obj\Debug\netcoreapp3.0\Array1.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array1\Array1\obj\Debug\netcoreapp3.0\Array1.pdb
