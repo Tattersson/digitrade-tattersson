@@ -1,0 +1,11 @@
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\obj\Debug\netcoreapp3.1\Array 2 - Rework.csprojAssemblyReference.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\obj\Debug\netcoreapp3.1\Array 2 - Rework.AssemblyInfoInputs.cache
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\obj\Debug\netcoreapp3.1\Array 2 - Rework.AssemblyInfo.cs
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.exe
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.deps.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.runtimeconfig.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.runtimeconfig.dev.json
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\bin\Debug\netcoreapp3.1\Array 2 - Rework.pdb
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\obj\Debug\netcoreapp3.1\Array 2 - Rework.dll
+C:\Koulu\Ohjelmointi\dev\digitrade-tattersson\Taulukkoharjoitukset\Array 2 - Rework\Array 2 - Rework\obj\Debug\netcoreapp3.1\Array 2 - Rework.pdb
