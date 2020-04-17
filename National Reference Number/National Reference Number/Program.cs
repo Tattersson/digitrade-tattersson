@@ -7,11 +7,11 @@ namespace National_Reference_Number
         static void Main(string[] args)
         {
             Intro();
-            int setting;
+            int reference;
             do
             {
-                setting = int.Parse(Console.ReadLine());
-                switch (setting)
+                reference = int.Parse(Console.ReadLine());
+                switch (reference)
                 {
                     case 1:
                         RefNumCheck();
@@ -23,13 +23,14 @@ namespace National_Reference_Number
                         Console.Write("Wrong input. Pick number 1 or 2:");
                         break;
                 }
-            } while (setting != 1 || setting != 2);
+            } while (reference != 1 || reference != 2);
 
         }
         static void Intro()
         {
-            Console.WriteLine("1. Program checks your national reference number. \n" +
+            Console.WriteLine("1. Program checks your national reference number. \n\n" +
                 "2. Program makes a national reference number.");
+            Console.WriteLine("____________________________________________________");
             Console.Write("Input numbers 1 or 2 to run a program and hit enter: ");
         }
         static void RefNumCheck()
