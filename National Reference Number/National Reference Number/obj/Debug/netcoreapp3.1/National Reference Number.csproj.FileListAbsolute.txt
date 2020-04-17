@@ -1,0 +1,13 @@
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.exe
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.deps.json
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.runtimeconfig.json
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.runtimeconfig.dev.json
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.dll
+D:\digitrade-tattersson\National Reference Number\National Reference Number\bin\Debug\netcoreapp3.1\National Reference Number.pdb
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.csprojAssemblyReference.cache
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.csproj.CoreCompileInputs.cache
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.AssemblyInfoInputs.cache
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.AssemblyInfo.cs
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.dll
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.pdb
+D:\digitrade-tattersson\National Reference Number\National Reference Number\obj\Debug\netcoreapp3.1\National Reference Number.genruntimeconfig.cache
